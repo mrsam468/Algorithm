@@ -5,13 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FizzBuzz {
-//    create a method that accept an argument of integer
-//    write down a conditional statement for each of the case
-//            divisible by 3
-//            divisible by 5
-//            divisible by 3 and 5
-//             default case
-//    printout the expected result string array
 
    public static List<String> fizzBuzz(int n){
        List<String> argument = new ArrayList<>();
