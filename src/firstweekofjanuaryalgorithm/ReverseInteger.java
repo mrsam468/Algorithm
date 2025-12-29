@@ -1,4 +1,5 @@
-package thirdweekofdecember;
+package firstweekofjanuaryalgorithm;
+
 //https://leetcode.com/problems/reverse-integer/
 public class ReverseInteger {
     public int reverse(int x){
