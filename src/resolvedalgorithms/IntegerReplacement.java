@@ -1,4 +1,4 @@
-package firstweekofjanuaryalgorithm;
+package resolvedalgorithms;
 //https://leetcode.com/problems/integer-replacement/
 public class IntegerReplacement {
     public int replaceInteger(int n){

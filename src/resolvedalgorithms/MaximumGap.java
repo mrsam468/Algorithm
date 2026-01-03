@@ -1,4 +1,4 @@
-package firstweekofjanuaryalgorithm;
+package resolvedalgorithms;
 //https://leetcode.com/problems/maximum-gap/
 import java.util.Arrays;
 

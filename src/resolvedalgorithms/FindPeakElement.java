@@ -1,4 +1,4 @@
-package firstweekofjanuaryalgorithm;
+package resolvedalgorithms;
 //https://leetcode.com/problems/find-peak-element/
 public class FindPeakElement {
     public int findPeak(int[] nums){

@@ -1,4 +1,4 @@
-package firstweekofjanuaryalgorithm;
+package resolvedalgorithms;
 
 public class PivotInteger {
     public int pivot(int n){

@@ -1,4 +1,4 @@
-package firstweekofjanuaryalgorithm;
+package resolvedalgorithms;
 //https://leetcode.com/problems/unique-paths/description/
 public class UniquePath {
     public int uniquePaths(int m,int n){

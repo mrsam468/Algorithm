@@ -1,4 +1,4 @@
-package firstweekofjanuaryalgorithm;
+package resolvedalgorithms;
 //https://leetcode.com/problems/largest-number/description/
 import java.util.Arrays;
 
