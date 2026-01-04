@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package resolvedalgorithms;
 //https://leetcode.com/problems/longest-uncommon-subsequence-i/
 public class LongestUncommonSubsequence {
     public int findLusLength(String a,String b){

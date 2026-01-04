@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package resolvedalgorithms;
 //https://leetcode.com/problems/monotonic-array/description/
 public class MonotonicArray {
     public boolean monotonic(int[] nums){

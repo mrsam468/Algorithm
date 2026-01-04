@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package firstweekofdecemberAlgorithm;
 //https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/
 public class SubtractProductAndSum {
     public int subtraction(int n){

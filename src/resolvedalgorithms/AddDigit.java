@@ -1,4 +1,4 @@
-package fifteenAlgorithm;
+package resolvedalgorithms;
 //https://leetcode.com/problems/add-digits/
 public class AddDigit {
     public int addNumbers(int num){

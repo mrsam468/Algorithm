@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package firstweekofdecemberAlgorithm;
 
 import java.sql.SQLOutput;
 

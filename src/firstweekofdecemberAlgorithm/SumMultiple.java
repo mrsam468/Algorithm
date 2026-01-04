@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package firstweekofdecemberAlgorithm;
 //https://leetcode.com/problems/sum-multiples/?envType=problem-list-v2&envId=prshgx6i
 public class SumMultiple {
     public int sumOfMultiple(int n){

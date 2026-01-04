@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package questionserror;
 
 public class FibonacciNumber {
     public int fibonccinums(int n){

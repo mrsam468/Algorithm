@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package firstweekofdecemberAlgorithm;
 //https://leetcode.com/problems/find-words-containing-character/?envType=problem-list-v2&envId=prshgx6i
 import java.util.ArrayList;
 import java.util.List;

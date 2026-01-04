@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package firstweekofdecemberAlgorithm;
 //https://leetcode.com/problems/rotate-string/
 
 public class RotateString {

@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package firstweekofdecemberAlgorithm;
 //https://leetcode.com/problems/detect-capital/description/
 public class DetectCapitalLetter {
     public boolean detectCapital(String word){

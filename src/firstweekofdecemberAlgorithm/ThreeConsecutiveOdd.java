@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package firstweekofdecemberAlgorithm;
 //https://leetcode.com/problems/three-consecutive-odds/description/?envType=problem-list-v2&envId=prshgx6i
 public class ThreeConsecutiveOdd {
     public boolean consecutiveOdd(int[] arr){

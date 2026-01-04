@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package firstweekofdecemberAlgorithm;
 //https://leetcode.com/problems/squares-of-a-sorted-array/?envType=problem-list-v2&envId=prshgx6i
 import java.util.Arrays;
 
@@ -9,7 +9,6 @@ public class SquareSortedArrray {
             n[i]=nums[i]*nums[i];
         }
         Arrays.sort(n);
-        System.out.println(Arrays.toString(n));
         return n;
     }
     public static void main(String[] args){

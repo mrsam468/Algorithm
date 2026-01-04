@@ -1,9 +1,10 @@
-package fourthweekalgorithm;
-
+package resolvedalgorithms;
+//
 import java.util.Arrays;
 
 public class LongestConsecutive {
     public int longestConsecutiveNumbers(int[] nums){
+
         int increased=0;
         Arrays.sort(nums);
         int j =0;
@@ -13,7 +14,9 @@ public class LongestConsecutive {
             }
             j++;
         }
-        System.out.println(increased+1);
+        if(nums.length== 0){
+            return nums.length;
+        }
         return increased+1;
     }
     public static void main(String[] args){

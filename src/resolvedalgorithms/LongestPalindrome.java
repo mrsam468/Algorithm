@@ -1,4 +1,4 @@
-package firstweekofjanuaryAlgorithm;
+package resolvedalgorithms;
 //https://leetcode.com/problems/longest-palindrome/description/
 public class LongestPalindrome {
     public int longestPalindrome(String s){
